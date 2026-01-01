@@ -10,7 +10,7 @@ body {
     color: #334;
     background: linear-gradient(135deg, #bfa4eb 0%, #573cb2 100%);
     min-height: 100vh;
-    padding: 10%;
+    padding: 5% 10%;
 }
 
 header {
@@ -30,7 +30,8 @@ main {
     background: rgb(248, 242, 254);
     border-radius: 20px;
     box-shadow: 0 50px 40px rgba(0, 0, 0, 0.2);
-    overflow: visible;
+    overflow: hidden;
+    padding-top:0;
 }
 
 header h1 {
