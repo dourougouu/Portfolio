@@ -230,6 +230,8 @@ Model performance was evaluated using:
 ---
 
 ## 🧠 Results Summary
-
+Notebook 1:
 The fine-tuned k-NN model achieved the highest performance among the evaluated models for the raw time-series approach, while CNN performance was limited by the relatively small dataset size.
-
+Notebook 2:
+The Random Forest emerged as the optimal model, achieving an accuracy of 66.4% on the unknown user.
+NOTE:If the raw data of user 2 was more precise and had more resemblance to the other subjects data we would expect for the feature engineering approach to be more accurate.
