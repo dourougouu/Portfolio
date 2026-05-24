@@ -213,7 +213,8 @@ Execute all cells sequentially:
 
 ### Notebook 2 — Feature Engineering
 
-- Classical Machine Learning classifiers using engineered statistical features
+- Random Forest (RF)
+- Support Vector Machine (SVM)
 
 ---
 
