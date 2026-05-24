@@ -197,8 +197,7 @@ Execute all cells sequentially:
 
 1. Data loading
 2. Data preprocessing
-3. Time-series segmentation
-4. Feature engineering (Notebook 2)
+3. Time-series segmentation(Notebook 1) / Feature engineering (Notebook 2)
 5. Model training
 6. Model evaluation
 
