@@ -171,15 +171,21 @@ Ensure MongoDB is running locally.
 ### 2️⃣ Open Jupyter Notebook
 
 Open one of the following notebooks:
-
+1.
+```text
+aiot_dataset_creation_sample.ipynb
+```
+2.
 ```text
 aiot_project_time_series.ipynb
 ```
-
-or
-
+3.
 ```text
 aiot_project_feature_engineering.ipynb
+```
+additional:
+```text
+testing_with_plots.ipynb
 ```
 
 ---
